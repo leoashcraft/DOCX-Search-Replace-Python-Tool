@@ -1,7 +1,9 @@
 
 ## About The Project
 
-This script powers a "Cover Letter Customization Tool" designed to automate the process of tailoring a cover letter or any Word document (.docx) for different job applications. It utilizes the Tkinter library for the graphical user interface (GUI), allowing users to easily interact with the tool's features. I initially created it to assist my wife in job hunting across multiple cities when we couldn't decide where we wanted to move to!
+This script serves as the backbone for a sophisticated "Cover Letter Customization Tool" that I developed with the intention of simplifying the often tedious task of customizing cover letters for various job applications. The inspiration for this project stemmed from a personal need—assisting my wife in her job search across multiple cities, a scenario that presented us with the challenge of tailoring her applications to different potential employers and locations as we were undecided about where we wanted to relocate.
+
+Leveraging the Tkinter library, a popular choice for building graphical user interfaces in Python, this tool offers an intuitive and accessible platform for users. Tkinter's versatility and ease of use made it an ideal choice for this project, enabling the creation of a user-friendly environment where users can effortlessly navigate through the tool's functionalities.
 
 [![TKInter GUI](https://github.com/leoashcraft/DOCX-Search-Replace-Python-Tool/blob/main/github-screenshots/docx-search-replace.png?raw=true)](https://github.com/leoashcraft/DOCX-Search-Replace-Python-Tool/blob/main/github-screenshots/docx-search-replace.png)
 
