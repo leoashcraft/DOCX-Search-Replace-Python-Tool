@@ -7,7 +7,7 @@ Leveraging the Tkinter library, a popular choice for building graphical user int
 
 [![TKInter GUI](https://github.com/leoashcraft/DOCX-Search-Replace-Python-Tool/blob/main/github-screenshots/docx-search-replace.png?raw=true)](https://github.com/leoashcraft/DOCX-Search-Replace-Python-Tool/blob/main/github-screenshots/docx-search-replace.png)
 
-Here's a rundown of what the script does:
+## Here's a rundown of what the script does:
 
 ### Configuration Loading and Saving
 Utilizes a settings.ini file to store and retrieve user preferences such as file paths and replacement texts, ensuring a personalized and efficient user experience.
